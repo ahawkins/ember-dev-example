@@ -1,0 +1,1 @@
+window.EmberData = true;
